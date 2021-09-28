@@ -16,6 +16,7 @@ public class ConstructorExample {
 			}
 			loop++;
 			System.out.println("Incremented loop value:  "+loop);
+			System.out.println("Hi value incremeted !");
 		}
 		
 		Scanner input=new Scanner(System.in);

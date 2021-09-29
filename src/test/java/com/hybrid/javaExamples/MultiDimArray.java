@@ -40,6 +40,7 @@ public class MultiDimArray {
             }
             
             System.out.println();
+            System.out.println();
         }
         
         // The last array index is optional.

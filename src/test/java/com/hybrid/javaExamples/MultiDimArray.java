@@ -25,8 +25,11 @@ public class MultiDimArray {
         String[][] texts = new String[2][3];
         
         texts[0][1] = "Hello there";
+        texts[0][2] = "Hello Joshy";
         
         System.out.println(texts[0][1]);
+        System.out.println(texts[0][2]);
+        System.out.println(texts[0][0]);
         
         // How to iterate through 2D arrays.
         // first iterate through rows, then for each row
